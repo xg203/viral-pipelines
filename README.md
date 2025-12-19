@@ -1,6 +1,8 @@
 [![Build Status](https://github.com/broadinstitute/viral-pipelines/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/broadinstitute/viral-pipelines/actions/workflows/build.yml)
 [![Documentation Status](https://readthedocs.org/projects/viral-pipelines/badge/?version=latest)](http://viral-pipelines.readthedocs.io/en/latest/?badge=latest)
 
+> 📝 **[See my notes here](pipes/Nextflow/assemble_refbased/walkthrough.md)**
+
 # viral-pipelines
 
 A set of scripts and tools for the analysis of viral NGS data.
